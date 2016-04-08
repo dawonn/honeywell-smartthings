@@ -3,7 +3,6 @@
 This Device Handler can be used to connect Honeywell Wifi Thermostats to a SmartThings Hub.
 
 ##Usage:
-# Usage:
 
 1) Log into https://ide.smartthings.com/, and under My Device Types, create a New SmartDevice with the code from thermostat.groovy. Publish the device for yourself.
 
